@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on The Young Lab</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on The Young Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
+      <link>/publication/thms_mmuav/</link>
+      <pubDate>Fri, 07 Dec 2018 17:09:41 -0500</pubDate>
+      
+      <guid>/publication/thms_mmuav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Machine Interaction for Telemanipulation by Small Unmanned Systems</title>
+      <link>/publication/thms/</link>
+      <pubDate>Tue, 21 Aug 2018 16:09:54 -0500</pubDate>
+      
+      <guid>/publication/thms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
+      <link>/publication/2018_prag/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/2018_prag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
+      <link>/publication/2018_jofr/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/2018_jofr/</guid>
+      <description>Full citation:
+Kayacan, E., Young, S.N., Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” J. Field Robotics, 1-13. doi.org/10.1002/rob.21794</description>
+    </item>
+    
+    <item>
+      <title>Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions</title>
+      <link>/publication/2017_water/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/2017_water/</guid>
+      <description>Full citation:
+Young, S. N., Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” Water, 9(7). doi: 10.3390/w9070494</description>
+    </item>
+    
+  </channel>
+</rss>
