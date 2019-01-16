@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Young Lab</title>
-    <link>/post/</link>
+    <link>https://snyoung2.github.io./post/</link>
     <description>Recent content in Posts on The Young Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://snyoung2.github.io./post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Currently Recruiting Graduate Students in Biological and Agricultural Engineering at NC State</title>
-      <link>/post/2018_student_advertisement/</link>
+      <link>https://snyoung2.github.io./post/2018_student_advertisement/</link>
       <pubDate>Tue, 21 Aug 2018 20:44:45 -0500</pubDate>
       
-      <guid>/post/2018_student_advertisement/</guid>
+      <guid>https://snyoung2.github.io./post/2018_student_advertisement/</guid>
       <description>The Young group is currently seeking highly motivated graduate students to conduct research developing innovative robotics and sensing technologies to solve agricultural and environmental engineering problems. Students will be part of collaborative, multi-disciplinary projects that seek to improve the sensing and sense-making process for a variety of applications, including plant phenotying, precision agriculture, and . The positions are particularly well-suited for students interested in a mixture of hardware development, data analytics, and field work.</description>
     </item>
     
