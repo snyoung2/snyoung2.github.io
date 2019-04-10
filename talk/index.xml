@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on The Young Lab</title>
+    <title>Recent &amp; Upcoming Talks on The DAISy Lab</title>
     <link>https://snyoung2.github.io./talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on The Young Lab</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on The DAISy Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 04 Oct 2018 15:38:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 15:27:54 -0500</lastBuildDate>
     
 	<atom:link href="https://snyoung2.github.io./talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
+      <pubDate>Tue, 09 Apr 2019 15:27:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/phenome/</link>
+      <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unmanned Systems for Agricultural Water Measurement and Management</title>

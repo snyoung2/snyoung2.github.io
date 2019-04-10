@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on The Young Lab</title>
+    <title>Homes on The DAISy Lab</title>
     <link>https://snyoung2.github.io./home/</link>
-    <description>Recent content in Homes on The Young Lab</description>
+    <description>Recent content in Homes on The DAISy Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>The Young Lab</title>
+      <title>The DAISy Lab</title>
       <link>https://snyoung2.github.io./home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
@@ -37,8 +37,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://snyoung2.github.io./home/about/</guid>
-      <description>About the Young Lab The Young Lab is now seeking both MS and PhD students for Fall 2019! Please email Dr. Young with a resume/CV and brief description of graduate school goals if interested.
-Sierra Young is an Assistant Professor in the Biological and Agricultural Engineering Department at North Carolina State University. Broadly speaking, her research interests focus around the use of electronics, robotics, and automation for sensing and sense-making in natural and agricultural systems.</description>
+      <description>About the DAISy Lab The DAISy Lab is now seeking both MS and PhD students for Fall 2019! Please email Dr. Young with a resume/CV and brief description of graduate school goals if interested.
+The DAISy (Digital Agroecological and Intelligent Systems) Lab aims to advance technical and human-centered design approaches for unmanned robotic and sensor systems to monitor agricultural and natural processes, while ensuring these systems are usable and adopted.</description>
     </item>
     
     <item>

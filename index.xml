@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Young Lab on The Young Lab</title>
+    <title>The DAISy Lab on The DAISy Lab</title>
     <link>https://snyoung2.github.io./</link>
-    <description>Recent content in The Young Lab on The Young Lab</description>
+    <description>Recent content in The DAISy Lab on The DAISy Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
+      <pubDate>Tue, 09 Apr 2019 15:27:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/phenome/</link>
+      <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
@@ -34,7 +52,7 @@
       <pubDate>Tue, 21 Aug 2018 20:44:45 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./post/2018_student_advertisement/</guid>
-      <description>&lt;p&gt;The Young group is currently seeking highly motivated graduate students to conduct research developing innovative robotics and sensing technologies to solve agricultural and environmental engineering problems. Students will be part of collaborative, multi-disciplinary projects that seek to improve the sensing and sense-making process for a variety of applications, including plant phenotying, precision agriculture, and . The positions are particularly well-suited for students interested in a mixture of hardware development, data analytics, and field work.&lt;/p&gt;
+      <description>&lt;p&gt;The DAISy Lab is currently seeking highly motivated graduate students to conduct research developing innovative robotics and sensing technologies to solve agricultural and environmental engineering problems. Students will be part of collaborative, multi-disciplinary projects that seek to improve the sensing and sense-making process for a variety of applications, including plant phenotying, precision agriculture, and . The positions are particularly well-suited for students interested in a mixture of hardware development, data analytics, and field work.&lt;/p&gt;
 
 &lt;p&gt;Successful candidates are expected to have experiences and interests in one or more of the following areas: mechatronics, robotics, electronics, computer vision, sensing, and/or machine learning, with strong programming skills in one or more of the following languages: MATLAB, LabVIEW, Python, C/C++, and Java.&lt;/p&gt;
 
