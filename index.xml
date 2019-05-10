@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The DAISy Lab @ NC State on The DAISy Lab @ NC State</title>
-    <link>/</link>
+    <link>https://snyoung2.github.io./</link>
     <description>Recent content in The DAISy Lab @ NC State on The DAISy Lab @ NC State</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,46 +12,55 @@
     
     <item>
       <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
-      <link>/talk/2019/syngenta/</link>
+      <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
       <pubDate>Tue, 09 Apr 2019 15:27:54 -0500</pubDate>
       
-      <guid>/talk/2019/syngenta/</guid>
+      <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
-      <link>/talk/2019/phenome/</link>
+      <link>https://snyoung2.github.io./talk/2019/phenome/</link>
       <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
       
-      <guid>/talk/2019/phenome/</guid>
+      <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Farm to Takeoff: Ground and Aerial Robots for Biological Systems Analysis</title>
+      <link>https://snyoung2.github.io./talk/2019/carnegie/</link>
+      <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/carnegie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
-      <link>/publication/thms_mmuav/</link>
+      <link>https://snyoung2.github.io./publication/thms_mmuav/</link>
       <pubDate>Fri, 07 Dec 2018 17:09:41 -0500</pubDate>
       
-      <guid>/publication/thms_mmuav/</guid>
+      <guid>https://snyoung2.github.io./publication/thms_mmuav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unmanned Systems for Agricultural Water Measurement and Management</title>
-      <link>/talk/2018/asabewater/</link>
+      <link>https://snyoung2.github.io./talk/2018/asabewater/</link>
       <pubDate>Thu, 04 Oct 2018 15:38:10 -0500</pubDate>
       
-      <guid>/talk/2018/asabewater/</guid>
+      <guid>https://snyoung2.github.io./talk/2018/asabewater/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currently Recruiting Graduate Students in Biological and Agricultural Engineering at NC State</title>
-      <link>/post/2018_student_advertisement/</link>
+      <link>https://snyoung2.github.io./post/2018_student_advertisement/</link>
       <pubDate>Tue, 21 Aug 2018 20:44:45 -0500</pubDate>
       
-      <guid>/post/2018_student_advertisement/</guid>
+      <guid>https://snyoung2.github.io./post/2018_student_advertisement/</guid>
       <description>&lt;p&gt;The DAISy Lab is currently seeking highly motivated graduate students to conduct research developing innovative robotics and sensing technologies to solve agricultural and environmental engineering problems. Students will be part of collaborative, multi-disciplinary projects that seek to improve the sensing and sense-making process for a variety of applications, including plant phenotying, precision agriculture, and . The positions are particularly well-suited for students interested in a mixture of hardware development, data analytics, and field work.&lt;/p&gt;
 
 &lt;p&gt;Successful candidates are expected to have experiences and interests in one or more of the following areas: mechatronics, robotics, electronics, computer vision, sensing, and/or machine learning, with strong programming skills in one or more of the following languages: MATLAB, LabVIEW, Python, C/C++, and Java.&lt;/p&gt;
@@ -62,28 +71,28 @@
     
     <item>
       <title>Human-Machine Interaction for Telemanipulation by Small Unmanned Systems</title>
-      <link>/publication/thms/</link>
+      <link>https://snyoung2.github.io./publication/thms/</link>
       <pubDate>Tue, 21 Aug 2018 16:09:54 -0500</pubDate>
       
-      <guid>/publication/thms/</guid>
+      <guid>https://snyoung2.github.io./publication/thms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
-      <link>/publication/2018_prag/</link>
+      <link>https://snyoung2.github.io./publication/2018_prag/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/2018_prag/</guid>
+      <guid>https://snyoung2.github.io./publication/2018_prag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
-      <link>/publication/2018_jofr/</link>
+      <link>https://snyoung2.github.io./publication/2018_jofr/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/2018_jofr/</guid>
+      <guid>https://snyoung2.github.io./publication/2018_jofr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Kayacan, E., &lt;strong&gt;Young, S.N.&lt;/strong&gt;, Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;J. Field Robotics&lt;/em&gt;, 1-13. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21794&#34; target=&#34;_blank&#34;&gt;doi.org/10.1002/rob.21794&lt;/a&gt;&lt;/p&gt;
@@ -92,38 +101,38 @@
     
     <item>
       <title>Telemanipulation by Unmanned Aerial Vehicles for Agricultural Data Applications</title>
-      <link>/talk/2018/asabe/</link>
+      <link>https://snyoung2.github.io./talk/2018/asabe/</link>
       <pubDate>Mon, 30 Jul 2018 15:35:44 -0500</pubDate>
       
-      <guid>/talk/2018/asabe/</guid>
+      <guid>https://snyoung2.github.io./talk/2018/asabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://snyoung2.github.io./privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/privacy/</guid>
+      <guid>https://snyoung2.github.io./privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>In Situ Measurement of Soil-Water Parameters using a Micro UAV</title>
-      <link>/talk/2018/ewri/</link>
+      <link>https://snyoung2.github.io./talk/2018/ewri/</link>
       <pubDate>Mon, 04 Jun 2018 15:27:54 -0500</pubDate>
       
-      <guid>/talk/2018/ewri/</guid>
+      <guid>https://snyoung2.github.io./talk/2018/ewri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions</title>
-      <link>/publication/2017_water/</link>
+      <link>https://snyoung2.github.io./publication/2017_water/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/2017_water/</guid>
+      <guid>https://snyoung2.github.io./publication/2017_water/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
@@ -132,10 +141,10 @@
     
     <item>
       <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <link>https://snyoung2.github.io./project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>https://snyoung2.github.io./project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -150,10 +159,10 @@
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>https://snyoung2.github.io./project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>https://snyoung2.github.io./project/example-external-project/</guid>
       <description></description>
     </item>
     
