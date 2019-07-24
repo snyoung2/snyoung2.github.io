@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The DAISy Lab @ NC State on The DAISy Lab @ NC State</title>
+    <title>The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./</link>
-    <description>Recent content in The DAISy Lab @ NC State on The DAISy Lab @ NC State</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on The DAISy Lab @ NC State</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 07 Jul 2019 17:09:41 -0500</lastBuildDate>
+    
+	    <atom:link href="https://snyoung2.github.io./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
+      <link>https://snyoung2.github.io./publication/thms_mmuav/</link>
+      <pubDate>Sun, 07 Jul 2019 17:09:41 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./publication/thms_mmuav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Machine Interaction for Telemanipulation by Small Unmanned Systems</title>
+      <link>https://snyoung2.github.io./publication/thms/</link>
+      <pubDate>Mon, 01 Jul 2019 16:09:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./publication/thms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
@@ -38,15 +58,6 @@
     </item>
     
     <item>
-      <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
-      <link>https://snyoung2.github.io./publication/thms_mmuav/</link>
-      <pubDate>Fri, 07 Dec 2018 17:09:41 -0500</pubDate>
-      
-      <guid>https://snyoung2.github.io./publication/thms_mmuav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unmanned Systems for Agricultural Water Measurement and Management</title>
       <link>https://snyoung2.github.io./talk/2018/asabewater/</link>
       <pubDate>Thu, 04 Oct 2018 15:38:10 -0500</pubDate>
@@ -56,30 +67,7 @@
     </item>
     
     <item>
-      <title>Currently Recruiting Graduate Students in Biological and Agricultural Engineering at NC State</title>
-      <link>https://snyoung2.github.io./post/2018_student_advertisement/</link>
-      <pubDate>Tue, 21 Aug 2018 20:44:45 -0500</pubDate>
-      
-      <guid>https://snyoung2.github.io./post/2018_student_advertisement/</guid>
-      <description>&lt;p&gt;The DAISy Lab is currently seeking highly motivated graduate students to conduct research developing innovative robotics and sensing technologies to solve agricultural and environmental engineering problems. Students will be part of collaborative, multi-disciplinary projects that seek to improve the sensing and sense-making process for a variety of applications, including plant phenotying, precision agriculture, and . The positions are particularly well-suited for students interested in a mixture of hardware development, data analytics, and field work.&lt;/p&gt;
-
-&lt;p&gt;Successful candidates are expected to have experiences and interests in one or more of the following areas: mechatronics, robotics, electronics, computer vision, sensing, and/or machine learning, with strong programming skills in one or more of the following languages: MATLAB, LabVIEW, Python, C/C++, and Java.&lt;/p&gt;
-
-&lt;p&gt;Interested applicants are encouraged to send brief description of your research interests and qualifications and curriculum vitae to Dr. Sierra Young at sierrayoung@ncsu.edu.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human-Machine Interaction for Telemanipulation by Small Unmanned Systems</title>
-      <link>https://snyoung2.github.io./publication/thms/</link>
-      <pubDate>Tue, 21 Aug 2018 16:09:54 -0500</pubDate>
-      
-      <guid>https://snyoung2.github.io./publication/thms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
+      <title>Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
       <link>https://snyoung2.github.io./publication/2018_prag/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
@@ -88,7 +76,7 @@
     </item>
     
     <item>
-      <title>“High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
+      <title>High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
       <link>https://snyoung2.github.io./publication/2018_jofr/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
@@ -106,16 +94,6 @@
       
       <guid>https://snyoung2.github.io./talk/2018/asabe/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://snyoung2.github.io./privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://snyoung2.github.io./privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -137,33 +115,6 @@
 
 &lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://snyoung2.github.io./project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://snyoung2.github.io./project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://snyoung2.github.io./project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://snyoung2.github.io./project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

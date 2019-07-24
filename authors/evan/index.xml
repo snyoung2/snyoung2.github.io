@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The DAISy Lab @ NC State</title>
+    <link>https://snyoung2.github.io./authors/evan/</link>
+    <description>Recent content on The DAISy Lab @ NC State</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	    <atom:link href="https://snyoung2.github.io./authors/evan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://snyoung2.github.io./authors/evan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snyoung2.github.io./authors/evan/</guid>
+      <description>&lt;p&gt;Evan is four years into the undergraduate program in Biological and Agricultural Engineering with a concentration in Bioprocessing Engineering at NC State. He is currently working on developing a scanning table for hyperspectral imaging, and measuring soil stress via deployment of UAVs. Previous projects include the development of a protein powder from sweet potato leaves, the anti-oceanic-piracy fish stink bomb, and various projects at UNCG&amp;rsquo;s Virtual Environment for Assessment and Rehabilitation Lab. Evan&amp;rsquo;s current academic interests are robotics, bio-manufacturing, programming and fermentation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

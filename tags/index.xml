@@ -4,40 +4,12 @@
     <title>Tags on The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./tags/</link>
     <description>Recent content in Tags on The DAISy Lab @ NC State</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="https://snyoung2.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://snyoung2.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://snyoung2.github.io./tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://snyoung2.github.io./tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://snyoung2.github.io./tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://snyoung2.github.io./tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://snyoung2.github.io./tags/news/</link>
-      <pubDate>Tue, 21 Aug 2018 20:44:45 -0500</pubDate>
-      
-      <guid>https://snyoung2.github.io./tags/news/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

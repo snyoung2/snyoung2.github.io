@@ -4,18 +4,18 @@
     <title>Publications on The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./publication/</link>
     <description>Recent content in Publications on The DAISy Lab @ NC State</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 07 Jul 2019 17:09:41 -0500</lastBuildDate>
     
-	<atom:link href="https://snyoung2.github.io./publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://snyoung2.github.io./publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
       <link>https://snyoung2.github.io./publication/thms_mmuav/</link>
-      <pubDate>Fri, 07 Dec 2018 17:09:41 -0500</pubDate>
+      <pubDate>Sun, 07 Jul 2019 17:09:41 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./publication/thms_mmuav/</guid>
       <description></description>
@@ -24,14 +24,14 @@
     <item>
       <title>Human-Machine Interaction for Telemanipulation by Small Unmanned Systems</title>
       <link>https://snyoung2.github.io./publication/thms/</link>
-      <pubDate>Tue, 21 Aug 2018 16:09:54 -0500</pubDate>
+      <pubDate>Mon, 01 Jul 2019 16:09:54 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./publication/thms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>“Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
+      <title>Design and Field Evaluation of a Ground Robot for High-Throughput Phenotyping of Energy Sorghum</title>
       <link>https://snyoung2.github.io./publication/2018_prag/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
@@ -40,13 +40,15 @@
     </item>
     
     <item>
-      <title>“High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
+      <title>High Precision Control of Tracked Field Robots in the Presence of Unknown Traction Coefficients</title>
       <link>https://snyoung2.github.io./publication/2018_jofr/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://snyoung2.github.io./publication/2018_jofr/</guid>
-      <description>Full citation:
-Kayacan, E., Young, S.N., Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” J. Field Robotics, 1-13. doi.org/10.1002/rob.21794</description>
+      <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kayacan, E., &lt;strong&gt;Young, S.N.&lt;/strong&gt;, Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;J. Field Robotics&lt;/em&gt;, 1-13. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21794&#34; target=&#34;_blank&#34;&gt;doi.org/10.1002/rob.21794&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,8 +57,10 @@ Kayacan, E., Young, S.N., Peschel, J., and Chowdhary, G. (2018) “Robot-Assiste
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       
       <guid>https://snyoung2.github.io./publication/2017_water/</guid>
-      <description>Full citation:
-Young, S. N., Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” Water, 9(7). doi: 10.3390/w9070494</description>
+      <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
