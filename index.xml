@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Jul 2019 17:09:41 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 09:00:54 -0500</lastBuildDate>
     
 	    <atom:link href="https://snyoung2.github.io./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
+      <pubDate>Tue, 12 Nov 2019 09:00:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
@@ -31,36 +40,39 @@
     </item>
     
     <item>
-      <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
-      <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
-      <pubDate>Tue, 09 Apr 2019 15:27:54 -0500</pubDate>
+      <title>A Framework for Evaluating Field-Based, High-Throughput Phenotyping Systems: A Meta-Analysis</title>
+      <link>https://snyoung2.github.io./publication/2019_sensors/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
-      <link>https://snyoung2.github.io./talk/2019/phenome/</link>
-      <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
-      
-      <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
-      <description></description>
+      <guid>https://snyoung2.github.io./publication/2019_sensors/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>From Farm to Takeoff: Ground and Aerial Robots for Biological Systems Analysis</title>
       <link>https://snyoung2.github.io./talk/2019/carnegie/</link>
-      <pubDate>Fri, 08 Feb 2019 15:27:54 -0500</pubDate>
+      <pubDate>Tue, 21 May 2019 12:00:54 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./talk/2019/carnegie/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2019/phenome/</link>
+      <pubDate>Fri, 08 Feb 2019 10:00:54 -0500</pubDate>
+      
+      <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unmanned Systems for Agricultural Water Measurement and Management</title>
       <link>https://snyoung2.github.io./talk/2018/asabewater/</link>
-      <pubDate>Thu, 04 Oct 2018 15:38:10 -0500</pubDate>
+      <pubDate>Thu, 04 Oct 2018 14:00:10 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./talk/2018/asabewater/</guid>
       <description></description>
@@ -90,7 +102,7 @@
     <item>
       <title>Telemanipulation by Unmanned Aerial Vehicles for Agricultural Data Applications</title>
       <link>https://snyoung2.github.io./talk/2018/asabe/</link>
-      <pubDate>Mon, 30 Jul 2018 15:35:44 -0500</pubDate>
+      <pubDate>Wed, 01 Aug 2018 12:00:44 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./talk/2018/asabe/</guid>
       <description></description>
@@ -99,7 +111,7 @@
     <item>
       <title>In Situ Measurement of Soil-Water Parameters using a Micro UAV</title>
       <link>https://snyoung2.github.io./talk/2018/ewri/</link>
-      <pubDate>Mon, 04 Jun 2018 15:27:54 -0500</pubDate>
+      <pubDate>Tue, 05 Jun 2018 10:30:54 -0500</pubDate>
       
       <guid>https://snyoung2.github.io./talk/2018/ewri/</guid>
       <description></description>

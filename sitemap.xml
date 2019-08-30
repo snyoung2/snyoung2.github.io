@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snyoung2.github.io./talk/</loc>
+    <lastmod>2019-11-12T09:00:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snyoung2.github.io./</loc>
+    <lastmod>2019-11-12T09:00:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snyoung2.github.io./talk/2019/syngenta/</loc>
+    <lastmod>2019-11-12T09:00:54-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://snyoung2.github.io./authors/s.n.-young/</loc>
     <lastmod>2019-07-07T17:09:41-05:00</lastmod>
     <priority>0</priority>
@@ -38,12 +54,6 @@
   </url>
   
   <url>
-    <loc>https://snyoung2.github.io./</loc>
-    <lastmod>2019-07-07T17:09:41-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://snyoung2.github.io./publication/thms_mmuav/</loc>
     <lastmod>2019-07-07T17:09:41-05:00</lastmod>
   </url>
@@ -54,28 +64,23 @@
   </url>
   
   <url>
-    <loc>https://snyoung2.github.io./talk/</loc>
-    <lastmod>2019-04-09T15:27:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snyoung2.github.io./talk/2019/syngenta/</loc>
-    <lastmod>2019-04-09T15:27:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snyoung2.github.io./talk/2019/phenome/</loc>
-    <lastmod>2019-02-08T15:27:54-05:00</lastmod>
+    <loc>https://snyoung2.github.io./publication/2019_sensors/</loc>
+    <lastmod>2019-07-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://snyoung2.github.io./talk/2019/carnegie/</loc>
-    <lastmod>2019-02-08T15:27:54-05:00</lastmod>
+    <lastmod>2019-05-21T12:00:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snyoung2.github.io./talk/2019/phenome/</loc>
+    <lastmod>2019-02-08T10:00:54-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://snyoung2.github.io./talk/2018/asabewater/</loc>
-    <lastmod>2018-10-04T15:38:10-05:00</lastmod>
+    <lastmod>2018-10-04T14:00:10-05:00</lastmod>
   </url>
   
   <url>
@@ -102,12 +107,12 @@
   
   <url>
     <loc>https://snyoung2.github.io./talk/2018/asabe/</loc>
-    <lastmod>2018-07-30T15:35:44-05:00</lastmod>
+    <lastmod>2018-08-01T12:00:44-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://snyoung2.github.io./talk/2018/ewri/</loc>
-    <lastmod>2018-06-04T15:27:54-05:00</lastmod>
+    <lastmod>2018-06-05T10:30:54-05:00</lastmod>
   </url>
   
   <url>
