@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on The DAISy Lab @ NC State</title>
+    <title>Recent &amp; Upcoming Talks | The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on The DAISy Lab @ NC State</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 12 Nov 2019 09:00:54 -0500</lastBuildDate>
+      <atom:link href="https://snyoung2.github.io./talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 10 Jan 2020 10:00:54 -0500</lastBuildDate>
+    <image>
+      <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://snyoung2.github.io./talk/</link>
+    </image>
     
-	    <atom:link href="https://snyoung2.github.io./talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current and Future Uses for Ground and Aerial Robots in Fruits and Vegetables</title>
+      <link>https://snyoung2.github.io./talk/2020/smallfruit/</link>
+      <pubDate>Fri, 10 Jan 2020 10:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/smallfruit/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>From Farm to Takeoff: Small Unmanned Robots for Agricultural and Biological Systems</title>
+      <link>https://snyoung2.github.io./talk/2019/cornell/</link>
+      <pubDate>Mon, 09 Dec 2019 12:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2019/cornell/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Robotics and Automation to Improve the Throughput of Field-Based Phenotyping</title>
       <link>https://snyoung2.github.io./talk/2019/syngenta/</link>
       <pubDate>Tue, 12 Nov 2019 09:00:54 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2019/syngenta/</guid>
       <description></description>
     </item>
@@ -25,7 +40,6 @@
       <title>From Farm to Takeoff: Ground and Aerial Robots for Biological Systems Analysis</title>
       <link>https://snyoung2.github.io./talk/2019/carnegie/</link>
       <pubDate>Tue, 21 May 2019 12:00:54 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2019/carnegie/</guid>
       <description></description>
     </item>
@@ -34,7 +48,6 @@
       <title>Advancements and Challenges in Technology and Data Management Practices of Field-Based, High-Throughput Phenotyping</title>
       <link>https://snyoung2.github.io./talk/2019/phenome/</link>
       <pubDate>Fri, 08 Feb 2019 10:00:54 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2019/phenome/</guid>
       <description></description>
     </item>
@@ -43,7 +56,6 @@
       <title>Unmanned Systems for Agricultural Water Measurement and Management</title>
       <link>https://snyoung2.github.io./talk/2018/asabewater/</link>
       <pubDate>Thu, 04 Oct 2018 14:00:10 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2018/asabewater/</guid>
       <description></description>
     </item>
@@ -52,7 +64,6 @@
       <title>Telemanipulation by Unmanned Aerial Vehicles for Agricultural Data Applications</title>
       <link>https://snyoung2.github.io./talk/2018/asabe/</link>
       <pubDate>Wed, 01 Aug 2018 12:00:44 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2018/asabe/</guid>
       <description></description>
     </item>
@@ -61,7 +72,6 @@
       <title>In Situ Measurement of Soil-Water Parameters using a Micro UAV</title>
       <link>https://snyoung2.github.io./talk/2018/ewri/</link>
       <pubDate>Tue, 05 Jun 2018 10:30:54 -0500</pubDate>
-      
       <guid>https://snyoung2.github.io./talk/2018/ewri/</guid>
       <description></description>
     </item>

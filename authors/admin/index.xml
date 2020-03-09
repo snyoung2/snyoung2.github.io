@@ -3,27 +3,14 @@
   <channel>
     <title>The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./authors/admin/</link>
-    <description>Recent content on The DAISy Lab @ NC State</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    
-	    <atom:link href="https://snyoung2.github.io./authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
+      <atom:link href="https://snyoung2.github.io./authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>The DAISy Lab @ NC State</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
+      <title>The DAISy Lab @ NC State</title>
       <link>https://snyoung2.github.io./authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snyoung2.github.io./authors/admin/</guid>
-      <description>&lt;p&gt;The DAISy (&lt;strong&gt;D&lt;/strong&gt;igital &lt;strong&gt;A&lt;/strong&gt;groecology and &lt;strong&gt;I&lt;/strong&gt;ntelligent &lt;strong&gt;Sy&lt;/strong&gt;stems) Lab advances technical and human-centered design approaches for robotic and sensor systems to monitor agricultural and natural processes, while ensuring these systems are usable and adopted. Research in the DAISy Lab is done at the intersection of sensors and robotics, data analytics, and decision support, with a focus on technology development.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://snyoung2.github.io./img/venn_diagram.png&#34; width=&#34;600&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Sierra Young is an Assistant Professor in the Biological and Agricultural Engineering Department at North Carolina State University. Broadly speaking, her research focuses around the use of electronics, robotics, and automation for sensing and sense-making in natural and agricultural systems. She has expertise in deploying unmanned systems (including land, air, and surface vehicles) for hydrologic, environmental, and phenotyping applications.&lt;/p&gt;
-</description>
-    </item>
+    </image>
     
   </channel>
 </rss>
