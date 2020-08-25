@@ -5,12 +5,44 @@
     <link>https://snyoung2.github.io./talk/</link>
       <atom:link href="https://snyoung2.github.io./talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 10 Jan 2020 10:00:54 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 16 Sep 2020 15:40:54 -0500</lastBuildDate>
     <image>
       <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://snyoung2.github.io./talk/</link>
     </image>
+    
+    <item>
+      <title>From Farm to Takeoff: Aerial Robots for Visual and Physical Sensing in Agricultural Applications</title>
+      <link>https://snyoung2.github.io./talk/2020/ncsucss/</link>
+      <pubDate>Wed, 16 Sep 2020 15:40:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/ncsucss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Sensor Data at the Source</title>
+      <link>https://snyoung2.github.io./talk/2020/asabe/</link>
+      <pubDate>Wed, 15 Jul 2020 09:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/asabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Enabling Remote Telemanipulation by Uncrewed Aerial Systems (UAS) in Unknown Environments</title>
+      <link>https://snyoung2.github.io./talk/2020/rss/</link>
+      <pubDate>Sun, 12 Jul 2020 10:45:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Robotics, Sensing, and Automation to Improve the Throughput of Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2020/intrinsyc/</link>
+      <pubDate>Fri, 26 Jun 2020 15:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/intrinsyc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Current and Future Uses for Ground and Aerial Robots in Fruits and Vegetables</title>

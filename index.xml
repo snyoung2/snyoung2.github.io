@@ -5,12 +5,55 @@
     <link>https://snyoung2.github.io./</link>
       <atom:link href="https://snyoung2.github.io./index.xml" rel="self" type="application/rss+xml" />
     <description>The DAISy Lab @ NC State</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 16 Sep 2020 15:40:54 -0500</lastBuildDate>
     <image>
       <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
       <title>The DAISy Lab @ NC State</title>
       <link>https://snyoung2.github.io./</link>
     </image>
+    
+    <item>
+      <title>From Farm to Takeoff: Aerial Robots for Visual and Physical Sensing in Agricultural Applications</title>
+      <link>https://snyoung2.github.io./talk/2020/ncsucss/</link>
+      <pubDate>Wed, 16 Sep 2020 15:40:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/ncsucss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral light-reflection data dimensionality reduction for timely detection of yellow rust</title>
+      <link>https://snyoung2.github.io./publication/2020_prag/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 -0400</pubDate>
+      <guid>https://snyoung2.github.io./publication/2020_prag/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aharoni, R., Klymiuk, V., Sarusi, B., &lt;em&gt;Young, S.&lt;/em&gt;, Fahima, T., Fishbain, B. and Kendler S. (2020). Spectral light-reflection data dimensionality reduction for timely detection of yellow rust. &lt;em&gt;Precision Agriculture&lt;/em&gt;. 
+&lt;a href=&#34;https://doi.org/10.1007/s11119-020-09742-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1007/s11119-020-09742-2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyzing Sensor Data at the Source</title>
+      <link>https://snyoung2.github.io./talk/2020/asabe/</link>
+      <pubDate>Wed, 15 Jul 2020 09:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/asabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Enabling Remote Telemanipulation by Uncrewed Aerial Systems (UAS) in Unknown Environments</title>
+      <link>https://snyoung2.github.io./talk/2020/rss/</link>
+      <pubDate>Sun, 12 Jul 2020 10:45:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Robotics, Sensing, and Automation to Improve the Throughput of Phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2020/intrinsyc/</link>
+      <pubDate>Fri, 26 Jun 2020 15:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/intrinsyc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A process‐based approach to attribution of historical streamflow decline in a data‐scarce and human‐dominated watershed</title>
@@ -21,6 +64,14 @@
 &lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). 
 &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Review of Human-Machine Interfaces for Small Unmanned Systems with Robotic Manipulators</title>
+      <link>https://snyoung2.github.io./publication/2020_thms/</link>
+      <pubDate>Mon, 20 Jan 2020 16:09:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./publication/2020_thms/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -36,14 +87,6 @@
       <link>https://snyoung2.github.io./publication/2020_jhri/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:41 -0500</pubDate>
       <guid>https://snyoung2.github.io./publication/2020_jhri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review of Human-Machine Interfaces for Small Unmanned Systems with Robotic Manipulators</title>
-      <link>https://snyoung2.github.io./publication/2020_thms/</link>
-      <pubDate>Wed, 01 Jan 2020 16:09:54 -0500</pubDate>
-      <guid>https://snyoung2.github.io./publication/2020_thms/</guid>
       <description></description>
     </item>
     
