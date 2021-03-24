@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Acosta | The DAISy Lab @ NC State</title>
+    <link>https://snyoung2.github.io./authors/j.-acosta/</link>
+      <atom:link href="https://snyoung2.github.io./authors/j.-acosta/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Acosta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 17:09:41 -0500</lastBuildDate>
+    <image>
+      <url>https://snyoung2.github.io./media/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Acosta</title>
+      <link>https://snyoung2.github.io./authors/j.-acosta/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of freeze damage and minimum winter temperature of the seed source of loblolly pine seedlings using hyperspectral imaging</title>
+      <link>https://snyoung2.github.io./publication/2021_forestscience/</link>
+      <pubDate>Fri, 01 Jan 2021 17:09:41 -0500</pubDate>
+      <guid>https://snyoung2.github.io./publication/2021_forestscience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

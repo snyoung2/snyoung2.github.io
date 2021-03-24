@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The DAISy Lab @ NC State</title>
+    <title>Andrew Hillman | The DAISy Lab @ NC State</title>
     <link>https://snyoung2.github.io./authors/andrew/</link>
       <atom:link href="https://snyoung2.github.io./authors/andrew/index.xml" rel="self" type="application/rss+xml" />
-    <description>The DAISy Lab @ NC State</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <description>Andrew Hillman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
       <url>https://snyoung2.github.io./authors/andrew/avatar_hue7c4567de35e785f0c4f0a442e7eae5e_91920_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>The DAISy Lab @ NC State</title>
+      <title>Andrew Hillman</title>
       <link>https://snyoung2.github.io./authors/andrew/</link>
     </image>
     
