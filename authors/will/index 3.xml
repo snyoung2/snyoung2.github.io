@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Daniels | The DAISy Lab @ NC State</title>
+    <link>https://snyoung2.github.io./authors/will/</link>
+      <atom:link href="https://snyoung2.github.io./authors/will/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Daniels</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://snyoung2.github.io./authors/will/avatar_hu26565e495e31d8dcb93e1ceaa33b48f5_485833_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>William Daniels</title>
+      <link>https://snyoung2.github.io./authors/will/</link>
+    </image>
+    
+  </channel>
+</rss>
