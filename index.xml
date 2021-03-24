@@ -5,12 +5,68 @@
     <link>https://snyoung2.github.io./</link>
       <atom:link href="https://snyoung2.github.io./index.xml" rel="self" type="application/rss+xml" />
     <description>The DAISy Lab @ NC State</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 16 Sep 2020 15:40:54 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 22 Sep 2021 10:00:54 -0500</lastBuildDate>
     <image>
-      <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
+      <url>https://snyoung2.github.io./media/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
       <title>The DAISy Lab @ NC State</title>
       <link>https://snyoung2.github.io./</link>
     </image>
+    
+    <item>
+      <title>Using robotics, sensing, and automation to improve the throughput of phenotyping</title>
+      <link>https://snyoung2.github.io./talk/2021/danforth/</link>
+      <pubDate>Wed, 22 Sep 2021 10:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2021/danforth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision technologies for automated visual and physical sensing in agricultural systems</title>
+      <link>https://snyoung2.github.io./talk/2021/vatech/</link>
+      <pubDate>Fri, 16 Apr 2021 15:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2021/vatech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Interface Views on Performing Aerial Telemanipulation Tasks using Small UAVs</title>
+      <link>https://snyoung2.github.io./publication/2021_jhri/</link>
+      <pubDate>Mon, 01 Mar 2021 17:09:41 -0500</pubDate>
+      <guid>https://snyoung2.github.io./publication/2021_jhri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy in detection, actuation, and planning for robotic weeding systems</title>
+      <link>https://snyoung2.github.io./publication/2021_transasabe/</link>
+      <pubDate>Thu, 11 Feb 2021 17:09:41 -0500</pubDate>
+      <guid>https://snyoung2.github.io./publication/2021_transasabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of freeze damage and minimum winter temperature of the seed source of loblolly pine seedlings using hyperspectral imaging</title>
+      <link>https://snyoung2.github.io./publication/2021_forestscience/</link>
+      <pubDate>Fri, 01 Jan 2021 17:09:41 -0500</pubDate>
+      <guid>https://snyoung2.github.io./publication/2021_forestscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Farm to Takeoff: Small Unpiloted Robots for Precision Sensing in Agricultural Systems</title>
+      <link>https://snyoung2.github.io./talk/2020/columbia/</link>
+      <pubDate>Fri, 20 Nov 2020 12:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/columbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Small, Unpiloted Robots for Physical and Visual Sensing in Agricultural and Biological Systems</title>
+      <link>https://snyoung2.github.io./talk/2020/uiucabe/</link>
+      <pubDate>Fri, 09 Oct 2020 10:00:54 -0500</pubDate>
+      <guid>https://snyoung2.github.io./talk/2020/uiucabe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Farm to Takeoff: Aerial Robots for Visual and Physical Sensing in Agricultural Applications</title>
@@ -26,8 +82,7 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 -0400</pubDate>
       <guid>https://snyoung2.github.io./publication/2020_prag/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Aharoni, R., Klymiuk, V., Sarusi, B., &lt;em&gt;Young, S.&lt;/em&gt;, Fahima, T., Fishbain, B. and Kendler S. (2020). Spectral light-reflection data dimensionality reduction for timely detection of yellow rust. &lt;em&gt;Precision Agriculture&lt;/em&gt;. 
-&lt;a href=&#34;https://doi.org/10.1007/s11119-020-09742-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1007/s11119-020-09742-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aharoni, R., Klymiuk, V., Sarusi, B., &lt;em&gt;Young, S.&lt;/em&gt;, Fahima, T., Fishbain, B. and Kendler S. (2020). Spectral light-reflection data dimensionality reduction for timely detection of yellow rust. &lt;em&gt;Precision Agriculture&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1007/s11119-020-09742-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1007/s11119-020-09742-2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -61,8 +116,7 @@
       <pubDate>Sat, 01 Feb 2020 00:00:00 -0500</pubDate>
       <guid>https://snyoung2.github.io./publication/2020_hp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). 
-&lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -79,14 +133,6 @@
       <link>https://snyoung2.github.io./talk/2020/smallfruit/</link>
       <pubDate>Fri, 10 Jan 2020 10:00:54 -0500</pubDate>
       <guid>https://snyoung2.github.io./talk/2020/smallfruit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization for Telemanipulation Tasks by Small, Unmanned Aerial Systems</title>
-      <link>https://snyoung2.github.io./publication/2020_jhri/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:41 -0500</pubDate>
-      <guid>https://snyoung2.github.io./publication/2020_jhri/</guid>
       <description></description>
     </item>
     
@@ -112,8 +158,7 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       <guid>https://snyoung2.github.io./publication/2019_sensors/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). 
-&lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -155,8 +200,7 @@
       <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       <guid>https://snyoung2.github.io./publication/2018_jofr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kayacan, E., &lt;strong&gt;Young, S.N.&lt;/strong&gt;, Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;J. Field Robotics&lt;/em&gt;, 1-13. 
-&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi.org/10.1002/rob.21794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kayacan, E., &lt;strong&gt;Young, S.N.&lt;/strong&gt;, Peschel, J., and Chowdhary, G. (2018) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;J. Field Robotics&lt;/em&gt;, 1-13. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi.org/10.1002/rob.21794&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -182,8 +226,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       <guid>https://snyoung2.github.io./publication/2017_water/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full citation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). 
-&lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Young, S. N.&lt;/strong&gt;, Peschel, J.M., Penny, G., Thompson, S., and Srinivasan, V. (2017) “Robot-Assisted Measurement for Hydrologic Understanding in Data Sparse Regions.” &lt;em&gt;Water&lt;/em&gt;, 9(7). &lt;a href=&#34;http://www.mdpi.com/2073-4441/9/7/494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3390/w9070494&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

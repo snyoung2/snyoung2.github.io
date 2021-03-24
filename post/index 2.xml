@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | The DAISy Lab @ NC State</title>
+    <link>https://snyoung2.github.io./post/</link>
+      <atom:link href="https://snyoung2.github.io./post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://snyoung2.github.io./images/icon_hu90d662de93cf65f62915aacb7913b2f9_40101_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://snyoung2.github.io./post/</link>
+    </image>
+    
+  </channel>
+</rss>
